@@ -81,7 +81,7 @@
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 1,
-    "physicsFriction": 0.2,
+    "physicsFriction": 0.5,
     "physicsGroup": 0,
     "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
@@ -91,17 +91,17 @@
     "physicsShape": 0,
     "physicsShapePoints": [
         {
-            "id": "f73d2908-2089-4889-b965-57b583dfad4b",
+            "id": "0c7ee968-2ddb-4d00-b4cf-62a40f7644ba",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 64,
             "y": 64
         },
         {
-            "id": "176cb637-25d4-4359-a27b-bd9fdcbd88b6",
+            "id": "0bb42b2d-3684-4cf6-8763-67f05636125f",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
+            "x": 54,
             "y": 64
         }
     ],
